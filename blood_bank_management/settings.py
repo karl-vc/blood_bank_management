@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'bloodbankdb',
         'PORT': '3306',
         'HOST': '127.0.0.1',
-        'USER': 'root',
+        'USER': 'bloodbank',
         'PASSWORD':'desire626',
     }
 }
