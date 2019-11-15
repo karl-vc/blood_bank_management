@@ -5,7 +5,7 @@ app_name='MyUserApp'
 
 
 urlpatterns=[
-url(r'^index/',views.index,name="index")
+    url(r'^home/',views.home,name="home")
 
 
 ]
